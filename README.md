@@ -6,7 +6,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
 
 - :credit_card: Meu nome é **André Moutinho** <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: Minha Especialização é em **Desenvolvimento de Sistemas para Web**
 - :earth_asia: Moro em **Santos - SP**
 - 👨‍🎓 Graduando em **Sistemas para Internet** pela Fatec Baixada Santista Rubens Lara
