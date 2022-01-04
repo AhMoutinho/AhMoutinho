@@ -10,6 +10,8 @@
 - :books: Minha Especialização é em **Desenvolvimento de Sistemas para Web**
 - :earth_asia: Moro em **Santos - SP**
 - 👨‍🎓 Graduando em **Sistemas para Internet** pela Fatec Baixada Santista Rubens Lara
+- :memo: Pesquisa Científica abordando **Metodologia no Desenvolvimento Web com Suporte a Documentação** no ano de 2017
+- :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
 <!-- Linguagens de Programação -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
