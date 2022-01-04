@@ -7,8 +7,8 @@
 
 - :credit_card: Meu nome é **André Moutinho** <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :books: Minha Especialização é em **Desenvolvimento de Sistemas para Web**
+- :earth_asia: Moro em **Santos - SP**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
