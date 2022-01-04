@@ -9,10 +9,7 @@
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: Minha Especialização é em **Desenvolvimento de Sistemas para Web**
 - :earth_asia: Moro em **Santos - SP**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+- 👨‍🎓 Graduando em **Sistemas para Internet** pela Fatec Baixada Santista Rubens Lara
 
 <!-- Linguagens de Programação -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
