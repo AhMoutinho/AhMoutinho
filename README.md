@@ -15,8 +15,13 @@
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
 <!-- Linguagens de Programação -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
 <p align="center">  
+  
+ <!-- Minha Configuração -->
+ 
+ ## 💻 Minha Configuração
   
 <!-- Meu Contato -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Meus Contatos
