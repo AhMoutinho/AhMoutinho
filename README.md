@@ -14,6 +14,10 @@
 - :memo: Pesquisa Científica abordando **Metodologia no Desenvolvimento Web com Suporte a Documentação** no ano de 2017
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <!-- Linguagens de Programação -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
