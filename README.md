@@ -6,7 +6,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
 
 - :credit_card: Meu nome é **André Moutinho** <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-- :books: Minha Especialização é em **Desenvolvimento de Sistemas para Web**
+- :books: Especializando em **Desenvolvimento de Sistemas para Web**
 - :earth_asia: Moro em **Santos - SP**
 - 👨‍🎓 Graduando em **Sistemas para Internet** pela Fatec Baixada Santista Rubens Lara
 - 🎓 Graduado em **Tecnologia de Analise e Desenvolvimento em Sistemas** pelo Centro Universitário Unilus no ano de 2018
