@@ -10,7 +10,7 @@
 - :earth_asia: Moro em **Santos - SP**
 - 👨‍🎓 Graduando em **Sistemas para Internet** pela Fatec Baixada Santista Rubens Lara
 - 🎓 Graduado em **Tecnologia de Analise e Desenvolvimento em Sistemas** pelo Centro Universitário Unilus no ano de 2018
-- 🎓 Formado como **Técnico em Informática (Ênfase em Programação de Computadores** pela Escola Técnica Aristóteles Ferreira no ano de 2015
+- 🎓 Formado como **Técnico em Informática (Ênfase em Programação de Computadores)** pela Escola Técnica Aristóteles Ferreira no ano de 2015
 - :memo: Pesquisa Científica abordando **Metodologia no Desenvolvimento Web com Suporte a Documentação** no ano de 2017
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
