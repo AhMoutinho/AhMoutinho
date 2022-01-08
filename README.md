@@ -2,7 +2,6 @@
 <img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif">
 
 <!-- Sobre Mim -->
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
 
 - :credit_card: Meu nome é **André Moutinho** <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
@@ -15,7 +14,6 @@
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
 <!-- Estatísticas Gerais -->
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -23,11 +21,13 @@
 <!-- Estatísticas Linguagens de Programação -->
 
 
+<!-- Minhas Skills -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Minhas Skills
 
-<!-- Linguagens de Programação -->
+<p align='center'>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Teste
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
-  
  <!-- Minha Configuração --> 
  ## 💻 Minha Configuração
  
