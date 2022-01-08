@@ -13,13 +13,11 @@
 - :memo: Pesquisa Científica abordando **Metodologia no Desenvolvimento Web com Suporte a Documentação** no ano de 2017
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
-<!-- Estatísticas Gerais -->
+<!-- Estatísticas Gerais e de Programação -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhMoutinho&layout=compact&langs_count=7&theme=dark" width="350"/>
 </p>
-
-<!-- Estatísticas Linguagens de Programação -->
-
 
 <!-- Minhas Skills -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Minhas Skills
