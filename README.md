@@ -28,9 +28,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Linguagens de Programação
   
- <!-- Minha Configuração -->
- 
+ <!-- Minha Configuração --> 
  ## 💻 Minha Configuração
+ 
+ <p align='center'>
+ <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+ <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/NVIDIA-GTX970-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />  
+ <img src="https://img.shields.io/badge/AMD-FX_8350-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> 
+ <p> 
   
 <!-- Meu Contato -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Meus Contatos
