@@ -1,5 +1,6 @@
 <!-- Meu Banner -->
-<img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif">
+<img height="350px" width="800px" src="https://i.imgur.com/FVGeoNr.gif">
+<!-- <img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif"> -->
 
 <!-- Sobre Mim -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
